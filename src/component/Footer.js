@@ -18,8 +18,8 @@ class Footer extends Component {
       
               
               <h5 className="text-uppercase font-weight-bold">Contact us:</h5>
-              <p>EMAIL: lifescapehospital@gmail.com</p>
-              <p>Phone no: 7686968650</p>
+              <p>EMAIL: demo@gmail.com</p>
+              <p>Phone no: 9641120205</p>
       
             </div>
             
